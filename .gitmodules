@@ -1,12 +1,12 @@
 [submodule "test"]
 	path = test
-	url = git@github.com:namebasedsockets/test.git
+	url = git://github.com/namebasedsockets/test.git
 [submodule "daemon"]
 	path = daemon
-	url = git@github.com:namebasedsockets/daemon.git
+	url = git://github.com/namebasedsockets/daemon.git
 [submodule "module"]
 	path = module
-	url = git@github.com:namebasedsockets/module.git
+	url = git://github.com/namebasedsockets/module.git
 [submodule "kernel"]
 	path = kernel
 	url = git://github.com/namebasedsockets/kernel.git
