@@ -10,3 +10,6 @@
 [submodule "kernel"]
 	path = kernel
 	url = git://github.com/namebasedsockets/kernel.git
+[submodule "doxygen"]
+	path = doxygen
+	url = git://github.com/namebasedsockets/doxygen.git
