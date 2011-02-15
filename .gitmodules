@@ -13,3 +13,9 @@
 [submodule "doxygen"]
 	path = doxygen
 	url = git://github.com/namebasedsockets/doxygen.git
+[submodule "api"]
+	path = api
+	url = git://github.com/namebasedsockets/API.git
+[submodule "API"]
+	path = API
+	url = git://github.com/namebasedsockets/API.git
